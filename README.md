@@ -2,7 +2,7 @@
 
 Online-zoo - это платформа, где собрана информация о животных из различных зоопарков, имеющих веб-камеры. Предполагается, что пользователь может открыть страницу с ресурсами зоопарка, понаблюдать за кем-либо из животных или сделать пожертвование, на которое будет закуплен корм. В рамках задания, нам предстоит сделать адаптивную верстку и интерактивность главной страницы, и страницы с донатами.
 
-**[Online zoo](https://online-zoo-janaahurtsova.netlify.app/pages/main/)
+**[Online zoo](https://online-zoo-janaahurtsova.netlify.app/pages/main/)**
 Текст ссылки: https://online-zoo-janaahurtsova.netlify.app/pages/main/
 **[PetStory-online](https://www.figma.com/file/ypzT9idgAILaSRVRmDAJxn/online-zoo-3-weeks)**  
 Текст ссылки: https://www.figma.com/file/ypzT9idgAILaSRVRmDAJxn/online-zoo-3-weeks
