@@ -123,7 +123,7 @@ const getFeedbackWrapper = () => {
 
 const renderArticlesToDom = () => {
     let feedbackWrapper = getFeedbackWrapper();
-    generateArticles(data).reverse().forEach(article => {
+    generateArticles(data).forEach(article => {
         feedbackWrapper.append(article.generateArticle());
     })
     width = feedbackWrapper.firstElementChild.offsetWidth;
